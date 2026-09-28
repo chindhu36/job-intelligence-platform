@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database
+jobs.db
+
+# Personal files
+Chin_CV.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
